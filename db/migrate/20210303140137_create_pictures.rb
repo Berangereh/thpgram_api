@@ -5,6 +5,7 @@ class CreatePictures < ActiveRecord::Migration[6.1]
       t.integer :likes
       t.boolean :liked
       t.string :created_by
+      t.text :caption
 
       t.timestamps
     end
