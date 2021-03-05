@@ -1,3 +1,6 @@
+Voici la partie back de l'app THPgram. 
+C'est en fait une API qui sera ensuite appelée dans la partie front. Elle est contruite en RoR et comprend la gem Devise.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
